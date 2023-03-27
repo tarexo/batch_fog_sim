@@ -14,4 +14,4 @@ Currently, only point clouds following the format proposed by the famous KITTI d
 
 You will find the augmented data in `data/foggy`.
 
-Adjusting the values `alpha`, `beta` and `gamma` in the cell containing all variables will change the properties of the fog simulation. Again, pleace check out Martin Hahners work for more information.
+Adjusting the values `alpha`, `beta` and `gamma` in the cell containing all variables will change the properties of the fog simulation. Again, please check out Martin Hahners work for more information. His repo also provides a graphical tool to play around with the settings.
